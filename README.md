@@ -4,7 +4,7 @@ This project implements a dual-layered defense framework that combines:
 - **Machine Learning (ML)** for early ransomware detection
 - **Blockchain technology** for tamper-proof forensic logging
 
-Developed as a final year project at Keele University, this proof-of-concept (PoC) demonstrates how integrating intelligent threat detection with immutable evidence storage can enhance cyber resilience and incident response.#
+Developed as a final year project at Keele University, this proof-of-concept (PoC) demonstrates how integrating intelligent threat detection with immutable evidence storage can enhance cyber resilience and incident response.
 pdf contains full project write up. 
 
 
