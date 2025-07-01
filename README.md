@@ -10,12 +10,12 @@ pdf contains full project write up.
 
 ## Features
 
-- 📊 **Machine Learning Detection**:
+- **Machine Learning Detection**:
   - Uses **Random Forest** (supervised) and **Isolation Forest** (unsupervised) models.
   - Trained and evaluated on both synthetic and real-world data (CSE-CIC-IDS2018).
   - Behavioural features: CPU usage, file changes, and network activity.
 
-- ⛓️ **Blockchain Logging**:
+- ⛓**Blockchain Logging**:
   - Ethereum smart contract logs detections immutably.
   - Uses **Hardhat** local blockchain and **web3.py** for integration.
   - Ensures forensic logs are preserved even if the local system is compromised.
