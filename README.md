@@ -24,7 +24,7 @@ pdf contains full project write up.
 ## Datasets
 
 - **Synthetic**: Simulated benign and ransomware activities.
-- **Real**: CSE-CIC-IDS2018 dataset, focusing on the "Infiltration" subset. struggled to set this dataset up as it was originally was lost due to broken hardive.
+- **Real**: CSE-CIC-IDS2018 dataset, focusing on the "Infiltration" subset.
 
 
 
